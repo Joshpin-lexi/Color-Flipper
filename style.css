@@ -1,0 +1,37 @@
+#green{
+    background-color: green;
+}
+
+#red{
+    background-color: red;
+}
+
+#blue{
+    background-color: blue;
+
+}
+
+ button{
+    border-radius: 5px;
+    width: 100px;
+    height: 40px; 
+    margin:5px;
+    cursor: pointer;
+    
+ }
+
+ button:hover{
+    background-color: black;
+    color:white;
+    
+ }
+
+ .zoom-button:hover{
+    transform: scale(1.2);
+    
+ }
+
+ #random{
+    background-color: black;
+    color: white;
+ }
